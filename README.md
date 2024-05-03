@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 To reach me: annabse27@gmail.com
 
 
 
